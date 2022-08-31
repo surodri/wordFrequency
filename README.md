@@ -6,7 +6,7 @@
 ### Input:
 
 Please add your text input to the following file.
-frequency/src/main/resources/text.txt
+`src/main/resources/text.txt`
 
 ### Output:
 
@@ -35,26 +35,38 @@ Formats:
 Examples:
 
 the cat is in the bag
-
 2 the
+
 1 in
+
 1 cat
+
 1 bag
+
 1 is
 
 the cat's toy is on the shelf
 
 2 the
+
 1 cat's
+
 1 is
+
 1 toy
+
 1 on
+
 1 shelf
 
 the cat is_in the fun-bag 1-10
 
 2 the
+
 1 cat
+
 1 is_in
+
 1 fun-bag
+
 1 1-10
