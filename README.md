@@ -24,7 +24,7 @@ The frequencies will be in decreasing order. The words with the same frequency w
 A word is assumed to be a chunk of text with characters of a-z, A-Z, 9-0.
 The characters can be united by an apostrophe, dash or underscore.
 
-Examples:
+Formats:
 
 - Apple apple         //Differences in capitals are considered different words. Here the frequencies would be 1, 1 vs 2.
 - with-dash
